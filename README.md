@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Reno
-- 👀 I’m interested in software development
-- 🌱 I currently study IT systems development
-- 📫 You can reach me on my email - repadj@taltech.com
+- 👀 I like to learn how things work and best way to do so is by creating them. 
+- 🌱 I currently study IT systems development.
+- 📚 This github profile contains mainly my school work but I'm hoping to upload some of my personal projects as well.
+- 📫 Feel free to explore my repositories or reach out to me on my email - repadj@taltech.com
 
-<!---
-repadj/repadj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
